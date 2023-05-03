@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title {
+  padding: 20px 50px;
+  font-family: "Segoe UI", serif;
+}
+
+.table {
+  align-self: center;
+}
